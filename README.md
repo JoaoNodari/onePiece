@@ -5,7 +5,7 @@
 
 Este projeto é um desafio proposto no curso que estou realizando para aprimorar meus conhecimentos em HTML, CSS e JavaScript. O objetivo é criar uma Landing Page inspirada no mundo épico de One Piece, e aqui, você poderá explorar alguns dos principais elementos da série enquanto eu aplico na prática os conceitos aprendidos no curso.
 
-<strong>Link:<strong> 
+<strong>Link:<strong> https://joaonodari.github.io/onePiece/
 
 ### 🔨 Ferramentas Utilizadas
 
